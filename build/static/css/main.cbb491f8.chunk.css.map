@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,cAAc,CACd,oBAAoB,CACpB,mBAAmB","file":"main.cbb491f8.chunk.css","sourcesContent":["/* Import Tailwind CSS utilities */\r\n@tailwind base;\r\n@tailwind components;\r\n@tailwind utilities;\r\n\r\n/* Add custom styles here (if any) */\r\n"]}
